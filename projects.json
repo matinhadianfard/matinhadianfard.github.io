@@ -10,10 +10,10 @@
   },
   {
     "id": "2",
-    "title": "وفور خود کنترلی آزمونی",
+    "title": "MCQ Timer",
     "description": "دیگه موقع آزمون دادن زمان از دستت در نمیره",
     "imageUrl": "./images/MCQ-timer.png",
-    "link": "./mcq-timer/index.html",
+    "link": "./MCQ-timer/index.html",
     "tags": ["React", "exam", "کنکور"],
     "createdAt": 2715421234567
   }
