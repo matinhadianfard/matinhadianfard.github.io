@@ -16,5 +16,14 @@
     "link": "./MCQ-timer/index.html",
     "tags": ["React", "exam", "کنکور"],
     "createdAt": 2715421234567
+  },
+    {
+    "id": "3",
+    "title": "سامانه دقیق",
+    "description": "وقتشه به علم خدمت کنی",
+    "imageUrl": "./images/Daqiq.png",
+    "link": "./Daqiq/index.html",
+    "tags": ["React", "Ai", "کنکور"],
+    "createdAt": 315421234567
   }
 ]
